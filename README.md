@@ -6,7 +6,7 @@
 Build a Decision Tree Classifier to predict whether a customer will purchase a product or service based on demographic and behavioral data.
 
 ### Dataset
-<a href=""> Bank Marketing Dataset</a>
+<a href="https://github.com/Harshallichade21/Prodigy_Infotech_DS_Task_3/blob/main/DS%20Task%203_Decision_Tree_Classifier.ipynb"> Bank Marketing Dataset</a>
 
 ### Tools Used
 - Python
