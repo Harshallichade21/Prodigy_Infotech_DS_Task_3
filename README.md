@@ -28,5 +28,5 @@ Decision Tree Classifier
 The Decision Tree model was trained to predict customer purchase behavior using the Bank Marketing dataset.
 
 ### Author
-<b>Harshal Lichade</b>: <a href="https://www.linkedin.com/in/harshal-lichade-507885334/"> (Linkdin) </a> </li>
+<b>Harshal Lichade</b>: <a href="https://www.linkedin.com/in/harshal-lichade-507885334/"> (LinkedIn) </a> </li>
 
